@@ -1,0 +1,3 @@
+venv/
+parsing/__pycache
+.env
